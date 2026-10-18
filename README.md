@@ -30,4 +30,3 @@ Feito com HTML, CSS, JavaScript, Supabase e Docker, durante um bootcamp.
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/arthur-bradley-barroca/
-- E-mail: [seu e-mail]
