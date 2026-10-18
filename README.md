@@ -1,4 +1,4 @@
-# Arthur Bradley Barroca
+#  👨‍💻 Arthur Bradley Barroca
 
 Estudante de Análise e Desenvolvimento de Sistemas no UniCEUB, em Brasília.
 Estou aprendendo a construir aplicações web e quero crescer na área de desenvolvimento de software.
